@@ -8,29 +8,74 @@
   },
   
   " | NONE | 0.0.0.0 | --.--.---- | ---":"_",
-  "nnXQeJ?7fsP9XM%Z?uR$bCt353@hMg@DzzY#jp00ph&yWs$@5#": false,
+  "nnXQeJ?7fsP9XM%Z?uR$bCt353@hMg@DzzY#jp00ph&yWs$@5#": {
+      "active":false,
+      "ip": "0.0.0.0",
+      "type": "NONE",
+      "version": "1.0"
+  },
   
   " | NONE | 0.0.0.0 | --.--.---- | ---":"_",
-  "#yp20ecx&XEH609M#QJJqUxxQQREy5r#Qn!xASYhZNJDUAGrt?": false,
+  "#yp20ecx&XEH609M#QJJqUxxQQREy5r#Qn!xASYhZNJDUAGrt?": {
+      "active":false,
+      "ip": "0.0.0.0",
+      "type": "NONE",
+      "version": "1.0"
+  },
   
   " | NONE | 0.0.0.0 | --.--.---- | ---":"_",
-  "7Q#yq$!rYx58Y$hfXrBb0748@$VR5TVXx&MfMZ3!&Fmkm*!fT$": false,
+  "7Q#yq$!rYx58Y$hfXrBb0748@$VR5TVXx&MfMZ3!&Fmkm*!fT$": {
+      "active":false,
+      "ip": "0.0.0.0",
+      "type": "NONE",
+      "version": "1.0"
+  },
   
   " | NONE | 0.0.0.0 | --.--.---- | ---":"_",
-  "em0sN!@*rWfhUWBmhRdTdQZgkSD&DDBUZp@ehxm5wbccMyXyF8": false,
+  "em0sN!@*rWfhUWBmhRdTdQZgkSD&DDBUZp@ehxm5wbccMyXyF8": {
+      "active":false,
+      "ip": "0.0.0.0",
+      "type": "NONE",
+      "version": "1.0"
+  },
   
   " | NONE | 0.0.0.0 | --.--.---- | ---":"_",
-  "5$Q&9Ejmc2nHkKd8USA#ter*BExG?0!MMPed*6z&0&UhwcKRt$": false,
+  "5$Q&9Ejmc2nHkKd8USA#ter*BExG?0!MMPed*6z&0&UhwcKRt$": {
+      "active":false,
+      "ip": "0.0.0.0",
+      "type": "NONE",
+      "version": "1.0"
+  },
   
   " | NONE | 0.0.0.0 | --.--.---- | ---":"_",
-  "pgr4zWdFySv$mpgXkHCh9TFngz0kp5vfme*%83te%2PZfxjx0D": false,
+  "pgr4zWdFySv$mpgXkHCh9TFngz0kp5vfme*%83te%2PZfxjx0D": {
+      "active":false,
+      "ip": "0.0.0.0",
+      "type": "NONE",
+      "version": "1.0"
+  },
   
   " | NONE | 0.0.0.0 | --.--.---- | ---":"_",
-  "mx0UAW5*B5S@u5@&q00%vb$&9gU*M0&qSN#dBCCkwbUg#7Tcfu": false,
+  "mx0UAW5*B5S@u5@&q00%vb$&9gU*M0&qSN#dBCCkwbUg#7Tcfu": {
+      "active":false,
+      "ip": "0.0.0.0",
+      "type": "NONE",
+      "version": "1.0"
+  },
   
   " | NONE | 0.0.0.0 | --.--.---- | ---":"_",
-  "x0#MnPqhtQKang3%s3tQR0B3B6b5CAc@ht65s64&WKSFpZ!cDr": false,
+  "x0#MnPqhtQKang3%s3tQR0B3B6b5CAc@ht65s64&WKSFpZ!cDr": {
+      "active":false,
+      "ip": "0.0.0.0",
+      "type": "NONE",
+      "version": "1.0"
+  },
   
   " | NONE | 0.0.0.0 | --.--.---- | ---":"_",
-  "Cm@bP#Z@nAMQu3zEQkh@S@eeKWFX22nE4VYsFwz0zJzjvE*A6Z": false
+  "Cm@bP#Z@nAMQu3zEQkh@S@eeKWFX22nE4VYsFwz0zJzjvE*A6Z": {
+      "active":false,
+      "ip": "0.0.0.0",
+      "type": "NONE",
+      "version": "1.0"
+  },
 }
