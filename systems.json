@@ -10,7 +10,7 @@
   " | My-TEST | 195.192.63.168 | 16.4.2020 | ALLSYSTEMS":"_",
   "nnXQeJ?7fsP9XM%Z?uR$bCt353@hMg@DzzY#jp00ph&yWs$@5#": {
       "active":true,
-      "ip": "195.192.63.168",
+      "ip": "169.254.59.71",
       "type": "ALLSYSTEMS",
       "version": "1.0"
   },
